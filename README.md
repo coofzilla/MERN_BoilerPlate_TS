@@ -11,6 +11,6 @@ Inside dev.ts including the following:
 
 `export const mongoURI = "YOURMONGOURIHERE";`
 
-Run `npm install` for deps
+Run `npm install` in both `client` directory and `root` directory
 
 Run `npm start`
